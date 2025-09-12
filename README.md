@@ -55,7 +55,7 @@ Hi! I'm an Italian developer with a passion for Linux, open-source software pack
 
 ### 📦 Snap Packaging for Plastimatch
 
-[![Snapcraft](https://img.shields.io/badge/Install%20on-Snapcraft-green?logo=snapcraft)](https://snapcraft.io/plastimatch)
+[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/plastimatch)
 
 - **Instant installation & portability:** The Snap package makes Plastimatch, a leading open-source medical imaging tool, installable in seconds on any Linux system with Snap support—no sysadmin skills or manual dependency wrangling needed.
 - **Technical challenge solved:** Plastimatch relies on libraries like ITK/VTK, often causing compatibility headaches across distributions or virtual machines. My Snap resolves all dependencies, ensuring reliable operation even in isolated VM/container environments.
