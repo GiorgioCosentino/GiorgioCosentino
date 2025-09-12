@@ -87,7 +87,7 @@ Hi! I'm an Italian developer with a passion for Linux, open-source software pack
 ### 🌡️ Arduino Closed-Loop Controller
 - Closed-loop system with temperature/humidity sensors and fan speed control.
 - Arduino IDE & C/C++ for feedback regulation.
-- **Repository:** [Arduino-Closed-Loop-Controller](https://github.com/GiorgioCosentino/Arduino-Closed-Loop-Controller-DHT11)
+- **Repository:** [Arduino-Closed-Loop-Controller-DHT11](https://github.com/GiorgioCosentino/Arduino-Closed-Loop-Controller-DHT11)
 
 ---
 
