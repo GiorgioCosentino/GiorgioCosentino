@@ -97,7 +97,6 @@ Hi! I'm an Italian developer with a passion for Linux, open-source software pack
 ---
 
 ## 📫 Contact
-- Email: **giorcose02@gmail.com**
-- LinkedIn: [linkedin.com/in/giorgio-cosentino-75b986363](#)
+- Email: [giorcose02@gmail.com](mailto:giorcose02@gmail.com)
+- LinkedIn: [linkedin.com/in/giorgio-cosentino-75b986363](https://linkedin.com/in/giorgio-cosentino-75b986363)
 - CV available upon request
-<!-- Add GitHub Sponsors / Twitter / portfolio if available -->
