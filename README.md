@@ -69,7 +69,6 @@ Hi! I'm an Italian developer with a passion for Linux, open-source software pack
 - Implemented in Python (TensorFlow/Keras): full code for preprocessing, model, training, and evaluation.
 - **What does the autoencoder do?**  
   It analyzes ECG signals and distinguishes between normal and abnormal heartbeats, enabling automatic detection of anomalies for medical analysis.
-- Implemented in Python (TensorFlow/Keras): full code for preprocessing, model, training, and evaluation.
 - **Results:**  
   - Accuracy: **0.948**
   - Precision: **0.990**
