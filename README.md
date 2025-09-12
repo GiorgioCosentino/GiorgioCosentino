@@ -64,7 +64,7 @@ Hi! I'm an Italian developer with a passion for Linux, open-source software pack
 
 ---
 
-### 🫀 ECG Autoencoder (Python)
+### ⚡ ECG Autoencoder (Python)
 - Developed an autoencoder for ECG signal compression and reconstruction.
 - Implemented in Python (TensorFlow/Keras): full code for preprocessing, model, training, and evaluation.
 - **What does the autoencoder do?**  
