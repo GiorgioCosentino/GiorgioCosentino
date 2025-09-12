@@ -60,7 +60,7 @@ Hi! I'm an Italian developer with a passion for Linux, open-source software pack
 - **Instant installation & portability:** The Snap package makes Plastimatch, a leading open-source medical imaging tool, installable in seconds on any Linux system with Snap support—no sysadmin skills or manual dependency wrangling needed.
 - **Technical challenge solved:** Plastimatch relies on libraries like ITK/VTK, often causing compatibility headaches across distributions or virtual machines. My Snap resolves all dependencies, ensuring reliable operation even in isolated VM/container environments.
 - **Clinical workflow impact:** Researchers and clinicians can process and visualize medical images with Plastimatch + 3D Slicer, reproducibly and securely, on Ubuntu, Debian, and beyond.
-- **Repository:** [plastimatch-snap](https://github.com/GiorgioCosentino/plastimatch-snap)
+- **Repository:** [Plastimatch-snap](https://github.com/GiorgioCosentino/plastimatch-snap)
 
 ---
 
