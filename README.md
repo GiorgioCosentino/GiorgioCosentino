@@ -21,7 +21,7 @@ Hi! I'm an Italian developer with a passion for Linux, open-source software pack
 ---
 
 ## 🎓 Education
-- Bachelor's degree in Computer and Biomedical Engineering (expected 2025)  
+- Bachelor's degree in Computer and Biomedical Engineering (2025)  
   Magna Graecia University of Catanzaro, Italy
 - High School Diploma in Computer Science and Telecommunications (2021)  
   Technical Industrial Institute "E. Scalfaro", Italy
