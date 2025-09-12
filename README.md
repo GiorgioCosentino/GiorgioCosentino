@@ -34,7 +34,7 @@ Hi! I'm an Italian developer with a passion for Linux, open-source software pack
   <li>Software packaging (Snapcraft)</li>
   <li>Medical imaging & visualization (Plastimatch, 3D Slicer)</li>
   <li>Machine Learning (Autoencoder ECG and other projects)</li>
-  <li>Automation & scripting (Python, Bash)</li>
+  <li>Automation & scripting (Python, Bash, Docker)</li>
 </ul>
 
 ---
@@ -92,7 +92,7 @@ Hi! I'm an Italian developer with a passion for Linux, open-source software pack
 ---
 
 ## 📂 Other Projects
-- Automation scripts: Bash scripts in Linux systems.
+- Automation & Containerization: Bash scripts in Linux systems.
 - Web experiments: Mini-projects in HTML/CSS/JavaScript, PHP.
 - Study projects: Learning exercises and prototypes.
 
