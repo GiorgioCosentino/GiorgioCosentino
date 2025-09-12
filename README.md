@@ -6,6 +6,9 @@
 
 Hi! I'm an Italian developer with a passion for Linux, open-source software packaging, medical imaging, and applied machine learning. I love solving technical challenges and making advanced tools more accessible to researchers and clinicians.
 
+
+**Contact me:**
+
 <div align="center">
   <a href="mailto:giorcose02@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
