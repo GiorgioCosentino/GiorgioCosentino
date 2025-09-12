@@ -60,7 +60,7 @@ Hi! I'm an Italian developer with a passion for Linux, open-source software pack
 - **Instant installation & portability:** The Snap package makes Plastimatch, a leading open-source medical imaging tool, installable in seconds on any Linux system with Snap support—no sysadmin skills or manual dependency wrangling needed.
 - **Technical challenge solved:** Plastimatch relies on libraries like ITK/VTK, often causing compatibility headaches across distributions or virtual machines. My Snap resolves all dependencies, ensuring reliable operation even in isolated VM/container environments.
 - **Clinical workflow impact:** Researchers and clinicians can process and visualize medical images with Plastimatch + 3D Slicer, reproducibly and securely, on Ubuntu, Debian, and beyond.
-- **Repository:** [Repository link](https://github.com/GiorgioCosentino/plastimatch-snap)
+- **Repository:** [plastimatch-snap](https://github.com/GiorgioCosentino/plastimatch-snap)
 
 ---
 
@@ -73,26 +73,26 @@ Hi! I'm an Italian developer with a passion for Linux, open-source software pack
   - Accuracy: **0.948**
   - Precision: **0.990**
   - Recall: **0.916**
-- **Repository:** [Repository link](https://github.com/GiorgioCosentino/AutoEncoder-ECG)
+- **Repository:** [AutoEncoder-ECG](https://github.com/GiorgioCosentino/AutoEncoder-ECG)
 
 ---
 
 ### 🤖 Java Neural Network for Gaming
 - Feedforward neural network in Java: **4 input neurons, 1 hidden layer (8 neurons), 3 output neurons**.
 - Applied in a **1v1 mobile tank battle game**: the network receives the game state as input and outputs as actions or behaviors to apply against the player's tank.
-- **Repository:** [Repository link](https://github.com/GiorgioCosentino/NeuralNetwork)
+- **Repository:** [NeuralNetwork](https://github.com/GiorgioCosentino/NeuralNetwork)
 
 ---
 
 ### 🌡️ Arduino Closed-Loop Controller
 - Closed-loop system with temperature/humidity sensors and fan speed control.
 - Arduino IDE & C/C++ for feedback regulation.
-- **Repository:** [Repository link](https://github.com/GiorgioCosentino/Arduino-Closed-Loop-Controller-DHT11)
+- **Repository:** [Arduino-Closed-Loop-Controller](https://github.com/GiorgioCosentino/Arduino-Closed-Loop-Controller-DHT11)
 
 ---
 
 ## 📂 Other Projects
-- Automation & Containerization: Bash scripts in Linux systems.
+- Automation & Containerization: Bash scripts in Linux systems and Dockers.
 - Web experiments: Mini-projects in HTML/CSS/JavaScript, PHP.
 - Study projects: Learning exercises and prototypes.
 
