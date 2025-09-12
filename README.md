@@ -1,4 +1,4 @@
-# 👋 Giorgio Cosentino 👋
+# 🦾 Giorgio Cosentino 🦾
 
 **``Linux, Medical Imaging, Automation & Machine Learning Enthusiast``**
 
