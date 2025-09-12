@@ -81,7 +81,7 @@ Hi! I'm an Italian developer with a passion for Linux, open-source software pack
 ### 🤖 Java Neural Network for Gaming
 - Feedforward neural network in Java: **4 input neurons, 1 hidden layer (8 neurons), 3 output neurons**.
 - Applied in a **1v1 mobile tank battle game**: the network receives the game state as input and outputs as actions or behaviors to apply against the player's tank.
-- **Repository:** [Repository link](#)
+- **Repository:** [Repository link](https://github.com/GiorgioCosentino/NeuralNetwork)
 
 ---
 
