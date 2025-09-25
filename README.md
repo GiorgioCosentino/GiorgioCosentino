@@ -1,6 +1,6 @@
 # 🦾 Giorgio Cosentino 🦾
 
-**``Linux, Medical Imaging, Automation & Machine Learning Enthusiast``**
+**``Linux, Medical Imaging, Automation & Machine Learning Engineer``**
 
 ---
 
@@ -52,6 +52,12 @@ Hi! I'm an Italian developer with a passion for Linux, open-source software pack
 ---
 
 ## 🚀 Featured Projects
+
+### 🐳 Plastimatch Docker + Snap Automation
+- **Fully automated build pipeline:** Docker + Snapcraft workflow that generates an up-to-date Snap package of Plastimatch from the latest commit.
+- **Reproducible builds:** The process runs entirely in a containerized environment, avoiding manual dependency installation and ensuring consistent results.
+- **Universal installation:** The generated Snap package works across Linux distributions with Snap support, allowing researchers and clinicians to easily install Plastimatch anywhere.
+- **Repository:** [Plastimatch_docker_snap](https://github.com/GiorgioCosentino/Plastimatch_docker_snap)
 
 ### 📦 Snap Packaging for Plastimatch
 
