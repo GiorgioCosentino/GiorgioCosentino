@@ -59,6 +59,8 @@ Hi! I'm an Italian developer with a passion for Linux, open-source software pack
 - **Universal installation:** The generated Snap package works across Linux distributions with Snap support, allowing researchers and clinicians to easily install Plastimatch anywhere.
 - **Repository:** [Plastimatch_docker_snap](https://github.com/GiorgioCosentino/Plastimatch_docker_snap)
 
+---
+
 ### 📦 Snap Packaging for Plastimatch
 
 [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/plastimatch)
